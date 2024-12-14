@@ -9,7 +9,7 @@ Easy to Use: The project includes a user-friendly script to process images or vi
 Pre-trained Model: A pre-trained version of the model is available for quick deployment.
 Installation
 Clone the repository:
-git clone https://github.com/username/face-mask-detection.git
+git clone https://github.com/WasanaKarunasena/face-mask-detection.git
 cd face-mask-detection
 Install the required dependencies:
 
